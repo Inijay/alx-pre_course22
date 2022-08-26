@@ -1,0 +1,17 @@
+#This is the git command used
+cd - Use to change directory
+ls - Use to list files in a current directory
+touch - Use to create a file 
+echo - Use to replace content in a file
+mv - Use to move and rename a file
+rm - Use to remove and delete a file
+mkdir - use to create directory
+rmdir - Use to remove or delete directory
+git add - Use to add file content to the index
+git commit - Use to commit or record changes to the repostory
+git commit -m - Use to commit or record changes with message to the repostory
+git push - Use to update the repostory
+git pull - Use to fetch changes made in a repostory
+git branch - Use to check in which branch of are in presently
+git branch -c - Use to create a new branch
+git checkout - Use to switch within branches
